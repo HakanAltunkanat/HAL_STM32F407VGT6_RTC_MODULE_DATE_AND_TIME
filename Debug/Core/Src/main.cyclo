@@ -1,0 +1,17 @@
+main.c:91:6:get_rtc_time	1
+main.c:107:6:get_rtc_date	1
+main.c:121:6:HAL_RTC_AlarmAEventCallback	1
+main.c:128:6:oled_display	1
+main.c:147:6:rtc_alarm_config	4
+main.c:174:6:rtc_time_config	4
+main.c:196:6:rtc_date_config	4
+main.c:217:6:HAL_UART_RxCpltCallback	14
+main.c:288:6:EXTI9_5_IRQHandler	2
+main.c:310:5:main	3
+main.c:385:6:SystemClock_Config	3
+main.c:431:13:MX_I2C1_Init	2
+main.c:465:13:MX_RTC_Init	4
+main.c:529:13:MX_TIM2_Init	4
+main.c:578:13:MX_USART2_UART_Init	2
+main.c:611:13:MX_GPIO_Init	1
+main.c:655:6:Error_Handler	1
